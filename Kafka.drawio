@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T15:36:45.606Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="XMaeXo6Iq5Xjm5_lIABX" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T15:37:25.472Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="KGgsAqirnYowHys0U1KP" version="14.6.11" type="github">
   <diagram id="NNJm2ZnipQkBdvsmDhTs" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="190" y="180" width="400" height="400" as="geometry" />
         </mxCell>
         <mxCell id="ZUcZ3aQIkIUEAW7qEO7h-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="205" width="360" height="185" as="geometry" />
+          <mxGeometry x="210" y="205" width="360" height="155" as="geometry" />
         </mxCell>
         <mxCell id="ZUcZ3aQIkIUEAW7qEO7h-3" value="Boker 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="220" width="60" height="20" as="geometry" />
@@ -24,6 +24,12 @@
         </mxCell>
         <mxCell id="ZUcZ3aQIkIUEAW7qEO7h-7" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;Topic A&lt;/h1&gt;&lt;div&gt;Partition 1&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="410" y="255" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUcZ3aQIkIUEAW7qEO7h-8" value="Leader" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="250" y="330" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUcZ3aQIkIUEAW7qEO7h-9" value="Kafka cluster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
